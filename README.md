@@ -1,2 +1,2 @@
-# Team-Member-Plugin
-Team Member Plugin is wordpress plugin.
+# Team Member Plugin
+**SM Team** is a wordpress plugin to represent team member.
