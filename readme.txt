@@ -2,7 +2,7 @@
 Contributors: mahabubs,kulsumsiddique
 Tags: team, my team, our team,  team showcase,shortcode
 Requires at least: 3.5.1
-Tested up to: 4.7
+Tested up to: 4.9
 Stable tag: 2.0.0
 
 == Description ==
